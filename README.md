@@ -5,21 +5,21 @@ oauth2.0官方文档翻译
 本文是对oauth2.0框架翻译，框架文档地址：https://tools.ietf.org/html/rfc6749
 
 
-#oauth2.0授权框架
-##简介
+# oauth2.0授权框架
+## 简介
 Ouath2.0授权框架支持第三方应用通过协调资源所属者与HTTP服务之间的交互（交流）来代表资源所属者去获取一个HTTP服务的受限资源。或者允许第三方以自己的名义来访问受限资源。这份框架说明替换并淘汰了在RFC 5849内描述的Oauth1.0协议（过时）。
 
-##文档信息（Status of This Memo）
+## 文档信息（Status of This Memo）
 这是一个国际标准的跟踪文档。
 这篇文档由国际互联网工程任务组（IETF）产物。它代表了全体国际互联网工程任务组成员的产出。它已经接受大众检阅并由互联网工程指导小组（IESG）认证出版。更多相关的国际标准相关的信息可以参考阅读：RFC 5741的第二章节。
 当前文章的更新状态以及所有的勘误信息和如何提供信息反馈都可以查看 http://www.rfc-editor.org/info/rfc6749 了解。
 
-##版本信息（此翻译只做辅助介绍，不具备响应效益，具体效益请自行阅读原文档）
+## 版本信息（此翻译只做辅助介绍，不具备响应效益，具体效益请自行阅读原文档）
 Copyright (c) 2012 IETF Trust and the persons identified as the document authors.  All rights reserved。
 （版权所属IETF Trust 2012 和所有认证的所有文档作者，保留所有权限。）
 这篇文档从属于BCP 78。此文档以及所有与IETF文档相关的IETF Trust的合法规定在此文档发布日即时生效。请尊重并仔细阅读这些文档，他们介绍了使用oauth2.0的相应权益和受限条件。从此文档提取的代码组件必须包含IETF Trust的合法规定的第四章中描述的简化的BSD许可。如果没有相应的保证书这部分代码不允许使用（这句不确定，原文写的是provided，自己看原文）
 
-#目录
+# 目录
 1.介绍  
 	1.1 角色  
   1.2 协议流程  
@@ -134,5 +134,5 @@ Copyright (c) 2012 IETF Trust and the persons identified as the document authors
  附录B. application/x-www-form-urlencoded类型的使用
  附录C.致谢
  
- #介绍
+ # 介绍
  
