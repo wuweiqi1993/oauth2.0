@@ -112,7 +112,7 @@ Copyright (c) 2012 IETF Trust and the persons identified as the document authors
 &#160;&#160;&#160;&#160;12.1 规范性参考文献  
 &#160;&#160;&#160;&#160;12.2 资料性参考文献
   
-附录A.语法格式描述规范语法  
+附录A. 语法格式描述规范语法  
 &#160;&#160;&#160;&#160;A1.client_id 语法  
 &#160;&#160;&#160;&#160;A2.client_secret 语法  
 &#160;&#160;&#160;&#160;A3.response_type 语法  
@@ -131,8 +131,8 @@ Copyright (c) 2012 IETF Trust and the persons identified as the document authors
 &#160;&#160;&#160;&#160;A16.password 语法  
 &#160;&#160;&#160;&#160;A17.refresh_token 语法  
 &#160;&#160;&#160;&#160;A18.端点参数 语法  
- 附录B. application/x-www-form-urlencoded类型的使用  
- 附录C.致谢  
- 
- # 介绍
+附录B. application/x-www-form-urlencoded类型的使用  
+附录C. 致谢  
+
+# 介绍
  
