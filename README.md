@@ -112,27 +112,27 @@ Copyright (c) 2012 IETF Trust and the persons identified as the document authors
 &#160;&#160;&#160;&#160;12.1 规范性参考文献  
 &#160;&#160;&#160;&#160;12.2 资料性参考文献
   
-附录A.语法格式描述规范语法
-  A1.client_id 语法
-  A2.client_secret 语法
-  A3.response_type 语法
-  A4.scope 语法
-  A5.state 语法
-  A6.redirect_uri 语法
-  A7.error 语法
-  A8.error_description 语法
-  A9.error_uri 语法
-  A10.grant_type 语法
-  A11.code 语法
-  A12.access_token 语法
-  A13.token_type 语法
-  A14.expires_in 语法
-  A15.username 语法
-  A16.password 语法
-  A17.refresh_token 语法
-  A18.端点参数 语法
- 附录B. application/x-www-form-urlencoded类型的使用
- 附录C.致谢
+附录A.语法格式描述规范语法  
+&#160;&#160;&#160;&#160;A1.client_id 语法  
+&#160;&#160;&#160;&#160;A2.client_secret 语法  
+&#160;&#160;&#160;&#160;A3.response_type 语法  
+&#160;&#160;&#160;&#160;A4.scope 语法  
+&#160;&#160;&#160;&#160;A5.state 语法  
+&#160;&#160;&#160;&#160;A6.redirect_uri 语法  
+&#160;&#160;&#160;&#160;A7.error 语法  
+&#160;&#160;&#160;&#160;A8.error_description 语法  
+&#160;&#160;&#160;&#160;A9.error_uri 语法  
+&#160;&#160;&#160;&#160;A10.grant_type 语法  
+&#160;&#160;&#160;&#160;A11.code 语法  
+&#160;&#160;&#160;&#160;A12.access_token 语法  
+&#160;&#160;&#160;&#160;A13.token_type 语法  
+&#160;&#160;&#160;&#160;A14.expires_in 语法  
+&#160;&#160;&#160;&#160;A15.username 语法  
+&#160;&#160;&#160;&#160;A16.password 语法  
+&#160;&#160;&#160;&#160;A17.refresh_token 语法  
+&#160;&#160;&#160;&#160;A18.端点参数 语法  
+ 附录B. application/x-www-form-urlencoded类型的使用  
+ 附录C.致谢  
  
  # 介绍
  
