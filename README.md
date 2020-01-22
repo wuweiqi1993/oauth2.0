@@ -21,7 +21,7 @@ Copyright (c) 2012 IETF Trust and the persons identified as the document authors
 
 #目录
 1.介绍  
-  1.1 角色  
+	1.1 角色  
   1.2 协议流程  
   1.3 认证授权  
     1.3.1 授权码授权  
