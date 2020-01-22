@@ -21,19 +21,19 @@ Copyright (c) 2012 IETF Trust and the persons identified as the document authors
 
 #目录
 1. 介绍
-  1. 角色
-  2. 协议流程
-  3. 认证授权
-    1. 授权码授权
-	2. 简单授权
-    3. 资源所属者密码认证
-    4. 客户端认证
-  4. access token（访问令牌）
-  5. refresh token（刷新令牌）
-  6. 安全传输层协议（TLS）版本
-  7. HTTP 重定向
-  8. 复用性（*）
-  9. 标记约定（*）
+  	1. 角色
+  	2. 协议流程
+  	3. 认证授权
+    		1. 授权码授权
+		2. 简单授权
+    		3. 资源所属者密码认证
+    		4. 客户端认证
+  	4. access token（访问令牌）
+  	5. refresh token（刷新令牌）
+  	6. 安全传输层协议（TLS）版本
+  	7. HTTP 重定向
+  	8. 复用性（*）
+  	9. 标记约定（*）
 2. 客户端注册
   1. 客户端类型
   2. 客户端标识
